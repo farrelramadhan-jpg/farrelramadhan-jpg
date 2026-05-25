@@ -71,4 +71,9 @@ I am an Informatics Engineering student at Universitas Tadulako with a profound 
 ### 📊 My GitHub Performance
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=farrelramadhan-jpg&theme=dracula&area=true&hide_border=true" alt="Farrel's GitHub Activity Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=farrelramadhan-jpg&theme=radical&border_radius=10" alt="GitHub Streak" />
+</p>
