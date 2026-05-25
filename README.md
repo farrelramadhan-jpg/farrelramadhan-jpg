@@ -61,7 +61,7 @@ I am an Informatics Engineering student at Universitas Tadulako with a profound 
   <a href="https://www.linkedin.com/in/muhammad-farrel-ramadhan-945a46318/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:farrelramadhan1410@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=farrelramadhan1410@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
@@ -71,9 +71,4 @@ I am an Informatics Engineering student at Universitas Tadulako with a profound 
 ### 📊 My GitHub Performance
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=farrelramadhan-jpg&theme=dracula&area=true&hide_border=true" alt="Farrel's GitHub Activity Graph" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=farrelramadhan-jpg&theme=radical&border_radius=10" alt="GitHub Streak" />
-</p>
+  <img src="https://github-readme-activity-graph.vercel
