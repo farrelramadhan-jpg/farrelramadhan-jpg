@@ -71,10 +71,13 @@ I am an Informatics Engineering student at Universitas Tadulako with a profound 
 ### 📊 My GitHub Performance
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=farrelramadhan-jpg&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="Farrel's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farrelramadhan-jpg&layout=compact&theme=radical&border_radius=10" alt="Top Languages" width="43%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=farrelramadhan-jpg&show_icons=true&theme=radical&border_radius=10" alt="Farrel's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=farrelramadhan-jpg&theme=radical&border_radius=10" alt="GitHub Streak" width="92%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farrelramadhan-jpg&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=farrelramadhan-jpg&theme=radical&border_radius=10" alt="GitHub Streak" />
 </p>
