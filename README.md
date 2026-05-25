@@ -1,16 +1,10 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Muhammad+Farrel!+👋;Informatics+Engineering+Student;Full-Stack+%26+Mobile+App+Developer;UI%2FUX+Designer+%26+Researcher" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <strong>Identified as farrelramadhan-jpg | Based in Palu, Central Sulawesi, Indonesia</strong>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Muhammad+Farrel!+👋;Identified+as+farrelramadhan-jpg+💻;Based+in+Palu%2C+Central+Sulawesi%2C+Indonesia+📍;Informatics+Engineering+Student+%40UNTAD;Full-Stack+%26+Mobile+App+Developer;UI%2FUX+Designer+%26+Researcher" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=farrelramadhan-jpg&color=0077B5&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
-
----
 
 ### 🚀 About Me
 
